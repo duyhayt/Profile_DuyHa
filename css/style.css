@@ -532,7 +532,7 @@ h3.my-profession{
     cursor: pointer;
 }
 .portfolio .portfolio-item-inner .portfolio-img img{
-    width: 75%;
+    width: 100%;
     display: block;
 }
 
@@ -613,6 +613,14 @@ h3.my-profession{
     height: 50px;
     padding: 0 50px;
 }
+
+
+
+
+
+
+
+
 
 
 @media (max-width: 1199px) {
